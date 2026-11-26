@@ -1,0 +1,330 @@
+{
+ "umum": {
+  "nama": "Pati Cutting Laser",
+  "judul_seo": "Pati Cutting Laser",
+  "deskripsi_seo": "Pati Cutting Laser, Pati, Jawa Tengah. Trophy, plakat, signage, box cincin, dan karangan bunga dari akrilik, kayu, dan kulit. Bisa custom.",
+  "logo": "/img/logo.png"
+ },
+ "kontak": {
+  "wa_nomor": "6281325418181",
+  "wa_tampil": "0813 2541 8181",
+  "instagram_url": "https://www.instagram.com/paticuttinglaser/",
+  "instagram_nama": "@paticuttinglaser",
+  "facebook_url": "https://www.facebook.com/paticutting",
+  "facebook_nama": "Pati Cutting Laser",
+  "lokasi": "Pati, Jawa Tengah",
+  "pesan_order": "Halo Pati Cutting Laser, saya mau pesan"
+ },
+ "hero": {
+  "pembuka": "Perfecting the art of",
+  "judul": "Laser Cutting",
+  "deskripsi": "Trophy, plakat, signage, box cincin, sampai karangan bunga dari akrilik, kayu, dan kulit. Dipotong presisi di Pati, dibuat sesuai desainmu.",
+  "tombol_utama": "Pesan via WhatsApp",
+  "tombol_kedua": "Lihat karya",
+  "bukti": "Sudah dipesan SMK Tunas Harapan Pati, ORARI Lokal Pati, dan Wisma Lansia Panti Rukmi.",
+  "foto": [
+   {
+    "gambar": "/img/dfuufs2h7wh_0.webp",
+    "keterangan": "Trophy lomba, kayu dan akrilik",
+    "alt": "Trophy juara 1, 2, 3 dari kayu dengan huruf akrilik"
+   },
+   {
+    "gambar": "/img/dgfqthjvikm_1.webp",
+    "keterangan": "Trophy e-football",
+    "alt": "Trophy turnamen e-football berbentuk stik game"
+   },
+   {
+    "gambar": "/img/dfrvz5_nxxv_0.webp",
+    "keterangan": "",
+    "alt": "Signage logo bulat dari akrilik"
+   }
+  ],
+  "teks_berjalan": [
+   "Trophy",
+   "Plakat",
+   "Signage",
+   "Box cincin",
+   "Karangan bunga",
+   "Papan nama",
+   "Custom"
+  ]
+ },
+ "layanan": {
+  "judul": "Yang bisa kami buat",
+  "intro": "Satu hadiah atau puluhan plakat untuk acara sekolah. Pilih salah satu untuk tanya harga lewat WhatsApp.",
+  "label_tombol": "Tanya harga",
+  "item": [
+   {
+    "ikon": "trophy",
+    "judul": "Trophy",
+    "teks": "Untuk turnamen, lomba sekolah, dan acara komunitas. Bentuk bebas, dari stik game sampai bola biliar.",
+    "pesan_wa": "Halo Pati Cutting Laser, saya mau tanya harga trophy"
+   },
+   {
+    "ikon": "plakat",
+    "judul": "Plakat",
+    "teks": "Ucapan terima kasih dan penghargaan untuk narasumber, anggota organisasi, dan tamu acara.",
+    "pesan_wa": "Halo Pati Cutting Laser, saya mau tanya harga plakat"
+   },
+   {
+    "ikon": "sign",
+    "judul": "Signage",
+    "teks": "Papan nama dan papan informasi full akrilik dengan huruf timbul.",
+    "pesan_wa": "Halo Pati Cutting Laser, saya mau tanya harga signage"
+   },
+   {
+    "ikon": "ring",
+    "judul": "Box cincin",
+    "teks": "Kotak cincin untuk lamaran dan pernikahan, bisa diukir nama dan tanggal.",
+    "pesan_wa": "Halo Pati Cutting Laser, saya mau tanya harga box cincin"
+   },
+   {
+    "ikon": "flower",
+    "judul": "Karangan bunga",
+    "teks": "Karangan bunga dari akrilik untuk ucapan selamat dan peresmian.",
+    "pesan_wa": "Halo Pati Cutting Laser, saya mau tanya harga karangan bunga"
+   },
+   {
+    "ikon": "custom",
+    "judul": "Custom",
+    "teks": "Punya bentuk sendiri? Contohnya cover depan radio ICOM M700. Kirim desain atau ukurannya.",
+    "pesan_wa": "Halo Pati Cutting Laser, saya mau tanya harga custom"
+   }
+  ]
+ },
+ "bahan": {
+  "judul": "Tiga bahan, bisa digabung",
+  "intro": "Pilih sesuai kesan yang kamu mau. Banyak pesanan memadukan dua bahan, misalnya trophy kayu dengan huruf akrilik.",
+  "akrilik": {
+   "nama": "Akrilik",
+   "teks": "Bening atau berwarna, mengilap, dan kokoh. Paling sering dipakai untuk trophy, plakat, dan signage."
+  },
+  "kayu": {
+   "nama": "Kayu",
+   "teks": "Hangat dan natural. Cocok untuk badan trophy, alas plakat, dan box."
+  },
+  "kulit": {
+   "nama": "Kulit",
+   "teks": "Untuk aksesori dan detail personal yang ingin tampil beda."
+  }
+ },
+ "karya": {
+  "judul": "Karya terbaru",
+  "intro": "Semua foto dari pesanan pelanggan. Pilih foto untuk memperbesar.",
+  "kategori": [
+   {
+    "kode": "trophy",
+    "label": "Trophy"
+   },
+   {
+    "kode": "plakat",
+    "label": "Plakat"
+   },
+   {
+    "kode": "signage",
+    "label": "Signage"
+   },
+   {
+    "kode": "custom",
+    "label": "Custom"
+   }
+  ],
+  "item": [
+   {
+    "judul": "Cover depan radio ICOM M700",
+    "tanggal": "12 Nov 2026",
+    "kategori": "custom",
+    "deskripsi": "Panel depan radio dari akrilik hitam, dipotong sesuai ukuran perangkat.",
+    "klien": "",
+    "foto": [
+     "/img/dfqt4arh_ba_0.webp"
+    ],
+    "link": "https://www.instagram.com/p/Dfqt4ARH-Ba/"
+   },
+   {
+    "judul": "Papan layanan “Pelayanan Gratis”",
+    "tanggal": "11 Nov 2026",
+    "kategori": "signage",
+    "deskripsi": "Signage full akrilik dengan huruf timbul untuk papan informasi layanan.",
+    "klien": "",
+    "foto": [
+     "/img/dfn80koh_oi_0.webp",
+     "/img/dfn80koh_oi_1.webp"
+    ],
+    "link": "https://www.instagram.com/p/Dfn80kOH_oi/"
+   },
+   {
+    "judul": "Trophy turnamen",
+    "tanggal": "6 Nov 2026",
+    "kategori": "trophy",
+    "deskripsi": "Trophy akrilik berlapis warna dengan logo turnamen, satu set juara.",
+    "klien": "",
+    "foto": [
+     "/img/dfzuroxn_zy_0.webp",
+     "/img/dfzuroxn_zy_1.webp"
+    ],
+    "link": "https://www.instagram.com/p/DfZUROXn_ZY/"
+   },
+   {
+    "judul": "Trophy juara 1, 2, 3",
+    "tanggal": "4 Nov 2026",
+    "kategori": "trophy",
+    "deskripsi": "Trophy kayu dengan huruf akrilik 3D berwarna.",
+    "klien": "SMK Tunas Harapan Pati",
+    "foto": [
+     "/img/dfuufs2h7wh_0.webp",
+     "/img/dfuufs2h7wh_1.webp"
+    ],
+    "link": "https://www.instagram.com/p/DfUufs2H7Wh/"
+   },
+   {
+    "judul": "Signage logo wisma",
+    "tanggal": "2 Nov 2026",
+    "kategori": "signage",
+    "deskripsi": "Papan logo bulat dari akrilik.",
+    "klien": "Wisma Lansia Panti Rukmi",
+    "foto": [
+     "/img/dfrvz5_nxxv_0.webp",
+     "/img/dfrvz5_nxxv_1.webp"
+    ],
+    "link": "https://www.instagram.com/p/DfRVz5-nxxV/"
+   },
+   {
+    "judul": "Trophy kayu lomba sekolah",
+    "tanggal": "22 Okt 2026",
+    "kategori": "trophy",
+    "deskripsi": "Deretan trophy kayu untuk juara lomba musikalisasi puisi, story telling, dan lainnya.",
+    "klien": "SMK Tunas Harapan Pati",
+    "foto": [
+     "/img/dey6wwan25t_0.webp"
+    ],
+    "link": "https://www.instagram.com/p/Dey6WwAn25T/"
+   },
+   {
+    "judul": "Plakat ucapan terima kasih",
+    "tanggal": "15 Okt 2026",
+    "kategori": "plakat",
+    "deskripsi": "Plakat akrilik hitam untuk narasumber acara bincang buku.",
+    "klien": "SMK Tunas Harapan Pati",
+    "foto": [
+     "/img/degtik9n0pk_0.webp",
+     "/img/degtik9n0pk_1.webp"
+    ],
+    "link": "https://www.instagram.com/p/Degtik9n0pK/"
+   },
+   {
+    "judul": "Plakat terima kasih dan penghargaan",
+    "tanggal": "1 Okt 2026",
+    "kategori": "plakat",
+    "deskripsi": "Plakat kombinasi kayu dan akrilik dengan callsign anggota.",
+    "klien": "ORARI Lokal Pati",
+    "foto": [
+     "/img/dd8wyz2fijb_0.webp",
+     "/img/dd8wyz2fijb_1.webp"
+    ],
+    "link": "https://www.instagram.com/p/Dd8WYZ2FIjb/"
+   },
+   {
+    "judul": "Trophy e-football tournament",
+    "tanggal": "14 Feb 2025",
+    "kategori": "trophy",
+    "deskripsi": "Trophy berbentuk stik game, akrilik hitam dengan aksen kuning.",
+    "klien": "",
+    "foto": [
+     "/img/dgfqthjvikm_0.webp",
+     "/img/dgfqthjvikm_1.webp"
+    ],
+    "link": "https://www.instagram.com/p/DGFQtHJvIKm/"
+   },
+   {
+    "judul": "Trophy turnamen biliar",
+    "tanggal": "14 Feb 2025",
+    "kategori": "trophy",
+    "deskripsi": "Trophy akrilik bertema bola 9 untuk champion, runner up, dan semifinal.",
+    "klien": "",
+    "foto": [
+     "/img/dgfp39dvf_h_0.webp",
+     "/img/dgfp39dvf_h_1.webp"
+    ],
+    "link": "https://www.instagram.com/p/DGFP39Dvf_H/"
+   }
+  ],
+  "ajakan_judul": "Punya desain sendiri?",
+  "ajakan_teks": "Kirim gambar atau ukurannya lewat WhatsApp, kami potongkan.",
+  "ajakan_tombol": "Kirim desain",
+  "ajakan_pesan_wa": "Halo Pati Cutting Laser, saya mau kirim desain untuk dipotong"
+ },
+ "klien": {
+  "judul": "Sudah dipercaya di Pati",
+  "intro": "Sekolah, organisasi, dan lembaga yang sudah memesan. Buka kartunya untuk mengunjungi halaman mereka.",
+  "item": [
+   {
+    "nama": "SMK Tunas Harapan Pati",
+    "teks": "Trophy juara lomba dan plakat untuk narasumber acara sekolah.",
+    "url": "https://smkthpati.sch.id/",
+    "gambar": "/img/dfuufs2h7wh_1.webp"
+   },
+   {
+    "nama": "ORARI Lokal Pati",
+    "teks": "Plakat terima kasih dan penghargaan dari kayu dan akrilik.",
+    "url": "https://www.orlokpati.my.id/",
+    "gambar": "/img/dd8wyz2fijb_0.webp"
+   },
+   {
+    "nama": "Wisma Lansia Panti Rukmi",
+    "teks": "Signage logo bulat dari akrilik untuk bagian depan wisma.",
+    "url": "https://www.facebook.com/pages/Wisma-Lansia-Panti-Rukmi-Pati/1417291938393013",
+    "gambar": "/img/dfrvz5_nxxv_0.webp"
+   }
+  ]
+ },
+ "cara_pesan": {
+  "judul": "Cara pesan",
+  "keterangan_video": "Mesin laser sedang memotong huruf",
+  "langkah": [
+   {
+    "ikon": "chat",
+    "judul": "Chat WhatsApp",
+    "teks": "Ceritakan kebutuhanmu: produk, bahan, ukuran, dan jumlah."
+   },
+   {
+    "ikon": "pen",
+    "judul": "Setujui desain",
+    "teks": "Kirim desainmu, atau kami bantu buatkan lalu kamu setujui."
+   },
+   {
+    "ikon": "laser",
+    "judul": "Dipotong laser",
+    "teks": "Bahan dipotong dan diukir mesin laser, lalu dirakit."
+   },
+   {
+    "ikon": "box",
+    "judul": "Ambil pesanan",
+    "teks": "Pesanan dicek dan dikemas, siap diambil atau dikirim."
+   }
+  ]
+ },
+ "artikel": {
+  "judul": "Artikel",
+  "intro": "Tips memilih trophy, plakat, dan signage, plus cerita di balik pesanan kami.",
+  "tampil_di_beranda": 3
+ },
+ "kontak_bagian": {
+  "judul": "Ada ide? Kirim ke kami.",
+  "teks": "Pesan dan tanya-tanya lewat WhatsApp. Sebutkan produk, bahan, ukuran, dan jumlahnya.",
+  "tombol": "Chat 0813 2541 8181"
+ },
+ "footer": {
+  "hak_cipta": "© 2026 Digital Art, Pati Cutting Laser",
+  "link": [
+   {
+    "label": "Instagram",
+    "url": "https://www.instagram.com/paticuttinglaser/"
+   },
+   {
+    "label": "Facebook",
+    "url": "https://www.facebook.com/paticutting"
+   }
+  ]
+ }
+}
